@@ -1,0 +1,5 @@
+start=8147.681208
+volume=30.000000
+deinterlace=yes
+af=@acompressor:acompressor=threshold=-25dB:release=250:ratio=3:attack=20:makeup=8dB:knee=2dB
+sid=1

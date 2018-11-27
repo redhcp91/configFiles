@@ -1,0 +1,5 @@
+start=8056.440000
+pause=yes
+volume=10.000000
+af=volume=softclip=yes,lavfi=graph=%31%dynaudnorm=f=75:g=25:n=1:p=0.95
+sid=1

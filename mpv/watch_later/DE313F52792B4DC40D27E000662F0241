@@ -1,0 +1,5 @@
+start=5052.094000
+volume=60.000000
+af=@acompressor:acompressor=threshold=-25dB:release=250:ratio=3:attack=20:makeup=8dB:knee=2dB
+panscan=0.100000
+sub-delay=-0.100000

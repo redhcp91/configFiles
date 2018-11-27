@@ -1,0 +1,19 @@
+
+send KEY_H 1
+send KEY_H 0
+
+send KEY_E 1
+send KEY_E 0
+
+send KEY_L 1
+send KEY_L 0
+
+send KEY_L 1
+send KEY_L 0
+
+send KEY_O 1
+send KEY_O 0
+
+
+
+

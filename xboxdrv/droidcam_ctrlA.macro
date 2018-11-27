@@ -1,0 +1,7 @@
+# ctrl l and a
+
+send KEY_LEFTCTRL 1
+send KEY_A 1
+wait 500
+send KEY_LEFTCTRL 0
+send KEY_A 0

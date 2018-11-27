@@ -1,0 +1,6 @@
+start=0.000000
+speed=0.826463
+volume=60.000000
+mute=no
+fullscreen=yes
+af=@acompressor:acompressor=attack=20:makeup=8dB:ratio=3:threshold=-25dB:knee=2dB:release=250

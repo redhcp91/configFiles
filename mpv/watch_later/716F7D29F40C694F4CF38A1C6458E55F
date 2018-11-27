@@ -1,0 +1,5 @@
+start=167.007883
+fullscreen=yes
+af=@acompressor:acompressor=ratio=3:threshold=-25dB:knee=2dB:makeup=8dB:attack=20:release=250
+panscan=0.100000
+ab-loop-a=167.007883

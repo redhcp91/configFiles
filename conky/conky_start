@@ -1,0 +1,6 @@
+#!/bin/bash
+
+conky -c /home/chris/.config/conky/main-01
+
+conky -c /home/chris/.config/conky/phil_cpu.lua
+

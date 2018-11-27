@@ -1,0 +1,5 @@
+start=244.791667
+volume=85.000000
+mute=no
+af=@acompressor:acompressor=threshold=-25dB:release=250:knee=2dB:attack=20:ratio=3:makeup=8dB
+sid=no

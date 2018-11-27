@@ -1,0 +1,21 @@
+
+# Do not copy the mtime
+--no-mtime
+
+# Download using aria2
+--external-downloader "aria2c"
+# Arguments for aria2
+#--external-downloader-args '-c -j 10 -x 16'
+
+# Save files on ramdisk
+-o /media/chris/ramdisk/%(title).%(ext)
+#/%(title)s.%(ext)s
+
+# Pull audio from video
+--extract-audio
+
+# Download highest quality
+--audio-quality "0"
+
+# Format to flac
+--audio-format "flac"

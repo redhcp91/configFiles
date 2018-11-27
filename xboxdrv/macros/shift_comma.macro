@@ -1,0 +1,6 @@
+
+send KEY_LEFTSHIFT 1
+send XK_comma 1
+wait 1
+send KEY_LEFTSHIFT 0
+send XK_comma 0

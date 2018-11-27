@@ -1,0 +1,9 @@
+
+send KEY_ESC 1
+send KEY_ESC 0
+wait 1
+send KEY_ESC 1
+send KEY_ESC 0
+wait 1
+send KEY_ESC 1
+send KEY_ESC 0

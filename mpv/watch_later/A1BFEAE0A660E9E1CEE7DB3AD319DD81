@@ -1,0 +1,6 @@
+start=6486.063000
+speed=1.000050
+volume=60.000000
+af=@acompressor:acompressor=ratio=3:knee=2dB:threshold=-25dB:makeup=8dB:release=250:attack=20
+aid=4
+sid=1

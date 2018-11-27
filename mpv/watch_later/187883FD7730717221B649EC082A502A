@@ -1,0 +1,4 @@
+start=6254.623375
+pause=yes
+volume=25.000000
+af=lavfi=graph=%31%dynaudnorm=f=55:g=25:n=1:p=0.95

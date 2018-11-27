@@ -1,0 +1,5 @@
+start=5.206000
+speed=0.909245
+pause=no
+fullscreen=yes
+af=@acompressor:acompressor=knee=2dB:threshold=-25dB:makeup=8dB:attack=20:release=250:ratio=3

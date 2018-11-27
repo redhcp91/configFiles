@@ -1,0 +1,5 @@
+start=20.934156
+speed=0.826463
+volume=85.000000
+mute=no
+af=@acompressor:!acompressor=release=250:threshold=-25dB:makeup=8dB:ratio=3:attack=20:knee=2dB

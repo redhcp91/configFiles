@@ -1,0 +1,15 @@
+
+# Do not copy the mtime
+--no-mtime
+
+# Download using aria2
+--external-downloader 'aria2c'
+# Arguments for aria2
+--external-downloader-args '-c -j 10 -x 16'
+
+
+# Save files on ramdisk
+#-o /media/chris/ramdisk/%(title)s.%(ext)s
+-o /media/chris/ramdisk
+
+
